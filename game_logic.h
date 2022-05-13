@@ -8,6 +8,7 @@
 
 #ifndef GAME_LOGIC_H_
 #include <avr/io.h>
+#include <stdint.h>
 
 /* Screen width max values for x and y */
 #define	MAX_X	63
