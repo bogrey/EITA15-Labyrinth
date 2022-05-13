@@ -6,6 +6,7 @@
  */ 
 
 #include <avr/io.h>
+#include <stdint.h>
 #include "LCD_display.h"
 #include "game_logic.h"
 
